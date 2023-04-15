@@ -5,3 +5,5 @@ number_grid = [
     [0]
 ]
 
+for row in number_grid:
+    print(row)
